@@ -1,15 +1,19 @@
 
 # Fazemos projetos para mobile e Web
 
+> Trilha Explorer
+
+## 💻 Projeto
 
 Projeto para vender projetos com resposividade, para Web e mobile!
 
 
-## Stack utilizada
+## 🧑‍💻Tecnologias 
 
-**HTML** 
-
-**CSS** 
+- HTML
+- CSS
+- Git
+- Github
 
 
 ## Screenshots
